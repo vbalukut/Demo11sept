@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44405" started-at="2021-09-02T07:57:40Z" finished-at="2021-09-02T07:58:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44405" started-at="2021-09-02T07:57:40Z" finished-at="2021-09-02T07:58:24Z">
+      <class name="session8.FrameHandling">
+        <test-method status="PASS" signature="test02()[pri:0, instance:session8.FrameHandling@2344fc66]" name="test02" duration-ms="44360" started-at="2021-09-02T13:27:40Z" finished-at="2021-09-02T13:28:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+      </class> <!-- session8.FrameHandling -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
